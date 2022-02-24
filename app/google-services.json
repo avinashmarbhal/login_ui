@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59229078136",
+    "project_id": "fotp-98246",
+    "storage_bucket": "fotp-98246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59229078136:android:888c6decaf52937d3be38d",
+        "android_client_info": {
+          "package_name": "com.avinash.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59229078136-74b0n499fqq1flesa621kg1f12p0ga1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9N5k5o16Ud2J7lo5EzORpWCbHhptBKn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59229078136-74b0n499fqq1flesa621kg1f12p0ga1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
